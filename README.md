@@ -1,2 +1,2 @@
-# flask-reqval
+# Flask Request Validator
 Flask request validator
